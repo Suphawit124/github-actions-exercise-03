@@ -1,12 +1,26 @@
 {
   "name": "github-actions-exercise-03",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suphawit124/github-actions-exercise-03.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Suphawit124/github-actions-exercise-03/issues"
+  },
+  "homepage": "https://github.com/Suphawit124/github-actions-exercise-03#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^9.1.2",
+    "nodemon": "^2.0.13",
+    "supertest": "^6.1.6"
+  }
 }
